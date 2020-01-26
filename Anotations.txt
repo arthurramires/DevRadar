@@ -1,0 +1,39 @@
+JSON = Serve pra comunicar o backend ao frontend
+node_modules = nunca é alterado, ele contém todas as bibliotecas e dependências do projeto
+
+caminho do projeto: C:\Users\arthu\OneDrive\Área de Trabalho
+Iniciando um projeto no Backend:
+
+1 - Dentro da pasta do projeto criado rodar o comando "yarn init -y"
+2 - No terminal do VSCode rodar "yarn add express" para as dependências do projeto
+3 - Criar um arquivo index.js onde vamos definir as rotas do projeto
+4 - No terminal do VSCode rodar "node index.js" para iniciar o servidor
+5 - ROdar comando "yarn add nodemon -D" para instalar uma biblioteca que atualize o servidor sempre que fizermos alterações no cod
+6 - PAra iniciar o projeto agora usar o comando "yarn nodemon index.js"
+7- Instalar o insomnia para testar nossas rotas mais facilmente
+8 - Entrar no site do MongoDB Atlas para o banco de dados na nuvem (usuario: arthurramires senha: 20203030arT
+9 - No terminal, rodar comando yarn add mongoose
+10 - yarn add axios para chamar api's
+
+Iniciando projeto web com react:
+
+1 - yarn create react-app web
+2 - yarn start para iniciar o projeto 
+3 - Para testar precisamos iniciar tambem o projeto no backend
+
+Iniciando projeto mobile com react native e expo
+
+1 - Para instalar expo "yarn global add expo-cli" (obs: dentro da página do projeto)
+2 - expo init (nome do projeto) (= Á)
+3 - acessar a pasta 
+4 - rodar o comando yarn start
+5 - Para instalar uma biblioteca de navegação entrar em docs.expo.io - Managed Workflow/Guides/Navigation após -> rodar yarn add react-navigation na pasta do projeto
+6- para instalar a api de mapas expo install react-native-maps
+7 - para pegar a localização do usuário instalar expo install expo-location
+8 - para mostrar uma página da web dentro do app expo install react-native-webview
+9 - instalar tbm o axios
+
+
+
+
+
